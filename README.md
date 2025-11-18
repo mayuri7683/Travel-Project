@@ -1,1 +1,1 @@
-# Travel-Project
+Developed a machine learning–based travel recommendation system that predicts ideal destinations based on user preferences, budget, weather, and seasonal trends. Cleaned and analyzed travel data, applied algorithms like Logistic Regression, Random Forest, KNN, SVM, and Clustering, and improved accuracy through feature engineering and hyperparameter tuning. Delivered personalized destination suggestions to enhance user travel planning.
